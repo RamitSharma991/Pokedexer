@@ -10,4 +10,4 @@ Search bars and filtering, custom fonts
 
 Cocoapods and further use of Alamofire
 
-Downloading parsing data
+Downloading parsing data.
